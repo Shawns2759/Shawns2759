@@ -2,8 +2,8 @@
 I've always been intrigued by how things work. Combine that with a passion for problem solving and you got something unstoppable. If I can't figure out how something works, I can for sure find a solution to the problem.
 
 ##What are my programming skills
- consider myself as an intermediate full stack developer. I am very comfortable with:
-Python
+ consider myself as an intermediate full stack developer. I am very comfortable with: <br>
+Python  <br>
 JavaScript
 CSS
 HTML
