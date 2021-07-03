@@ -1,4 +1,4 @@
-`#Problem Solving Is My Thing!`
+# Problem Solving Is My Thing!
 I've always been intrigued by how things work. Combine that with a passion for problem solving and you got something unstoppable. If I can't figure out how something works, I can for sure find a solution to the problem.
 
 ##What are my programming skills
