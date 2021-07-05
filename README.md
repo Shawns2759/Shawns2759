@@ -30,7 +30,7 @@ Visual Studio Code <br>
 Office <br>
 noSQL <br>
 GraphQL <br>
-## Programming languages I would like to learn! <br>
+## Programming languages/technologies I would like to learn! <br>
 I mean, I'm open to anything but I have my eyes on these: <br>
 NextJS <br>
 GatsbyJS <br>
