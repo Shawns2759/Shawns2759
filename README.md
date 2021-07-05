@@ -5,7 +5,7 @@ I've always been intrigued by how things work. Combine that with a passion for p
  I consider myself as an intermediate full stack developer. I am very comfortable with: <br>
 JavaScript <br>
 Nodejs <br>
-Express<br
+Express <br>
 SQL <br>
 React <br>
 Mongo DB <br>
@@ -20,18 +20,20 @@ I have also worked with: <br>
 C# <br>
 Typescript <br>
 ## Technologies I use. <br>
-I'm very versatile and can work under different environments. Here's a list of the technologies I'm comfortable with: <br>
+### I'm very versatile and can work under different environments. Here's a list of the technologies I'm comfortable with: <br>
 Git <br>
 Github <br>
 REST APIs <br>
 Agile/SCRUM Dev. <br>
+Microsoft Studio <br>
 Visual Studio Code <br>
-Visual Studio <br>
 Office <br>
 noSQL <br>
 GraphQL <br>
 ## Programming languages I would like to learn! <br>
 I mean, I'm open to anything but I have my eyes on these: <br>
+NextJS <br>
+GatsbyJS <br>
 Ruby on Rails <br>
 Go <br>
 R <br>
