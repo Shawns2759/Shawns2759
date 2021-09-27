@@ -7,7 +7,9 @@ JavaScript <br>
 Nodejs <br>
 Express <br>
 SQL <br>
+Goofle Cloud Platform <br>
 React <br>
+NextJS<br>
 Mongo DB <br>
 ejs<br>
 CSS <br>
@@ -15,7 +17,6 @@ HTML <br>
 Python  <br>
 MacOS <br>
 iOS <br>
-Scratch 😺 <br>
 I have also worked with: <br>
 C# <br>
 Typescript <br>
