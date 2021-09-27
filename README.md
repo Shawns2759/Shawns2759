@@ -7,7 +7,7 @@ JavaScript <br>
 Nodejs <br>
 Express <br>
 SQL <br>
-Goofle Cloud Platform <br>
+Google Cloud Platform <br>
 React <br>
 NextJS<br>
 Mongo DB <br>
