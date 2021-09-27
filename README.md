@@ -33,12 +33,12 @@ noSQL <br>
 GraphQL <br>
 ## Programming languages/technologies I would like to learn! <br>
 I mean, I'm open to anything but I have my eyes on these: <br>
-NextJS <br>
 GatsbyJS <br>
+AWS <br>
 Ruby on Rails <br>
 Go <br>
 R <br>
-Brainfuck <br>
+
 ## I hope to hear back from you! <br>
 I really look forward to learn and get to understand more about how the IT world works. If you liked what you see/read, please contact me at <shawns2759@gmail.com> or on my personal website [shawn's website](website.com)
 
