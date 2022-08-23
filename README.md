@@ -38,8 +38,9 @@ AWS <br>
 Ruby on Rails <br>
 Go <br>
 R <br>
+And about a million other technologies <br>
 
 ## I hope to hear back from you! <br>
-I really look forward to learn and get to understand more about how the IT world works. If you liked what you see/read, please contact me at <shawns2759@gmail.com> or on my personal website [shawn's website](website.com)
+I really look forward to learn and get to understand more about how the IT world works. If you liked what you see/read, please contact me at <shawns2759@gmail.com>
 
 
